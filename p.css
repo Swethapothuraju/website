@@ -1,0 +1,60 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  font-size: 19px;
+}
+table{
+  width: 50%;
+  margin: 30px auto;
+  border-collapse: collapse;
+  text-align: left;
+}
+tr{
+  border-bottom: 1px solid #cbcbcb;
+}
+th,td{
+  border: 2px;
+  height: 30px;
+  padding: 2px;
+}
+tr:hover{
+  background: #F5F5F5;
+}
+form{
+    width:500PX;;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 5px;
+    margin-top: 100px;
+}
+.form2{
+  margin-top: 40px;
+  margin-left: 650px;
+}
+.input{
+  margin: 10px 0px 10px 0px;
+}
+.input label{
+  display: block;
+  text-align: left;
+  margin: 3px;
+}
+.input input{
+  height: 40px;
+  padding: 0px 90px;
+}
+.btn{
+  padding: 10px;
+  font-size: 15px;
+      border: none;
+    border-radius: 5px;
+    text-align: left;
+}
+.msg{
+  margin: 30px auto;
+  padding: 10px;
+  text-align: center;
+}
